@@ -373,7 +373,7 @@ html {
 
 /* product grids */
 #product-grids-backroundimage-gradiant {
-    background-image: url(../images/picgradiant2.jpg);
+    background-image: url(images/picgradiant2.jpg);
     background-size: cover;
     height: 600px;
     display: flex;
