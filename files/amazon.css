@@ -373,7 +373,7 @@ html {
 
 /* product grids */
 #product-grids-backroundimage-gradiant {
-    background-image: url(images/picgradiant2.jpg);
+    background-image: url(https://www.amazon.com/gp/goldbox/?ie=UTF8&pd_rd_w=GDH2w&content-id=amzn1.sym.a92f85a6-9066-4c5a-9deb-11fe582f9d77&pf_rd_p=a92f85a6-9066-4c5a-9deb-11fe582f9d77&pf_rd_r=SX37JS324D4RCTDX4RQR&pd_rd_wg=ARmIV&pd_rd_r=4a28b5c0-d86b-4587-98bf-e8edb3e06720&ref_=pd_hp_d_hero_unk);
     background-size: cover;
     height: 600px;
     display: flex;
@@ -901,3 +901,4 @@ html {
     color: #FEBD69;
     transform: scale(1.5);
 }
+
